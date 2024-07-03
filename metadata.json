@@ -1,0 +1,6 @@
+{
+  "name": "Wrapped BTC",
+  "symbol": "WBTC",
+  "description": "Wrapped BTC on the Solana Network.",
+  "image": "https://raw.githubusercontent.com/wrapped-btc/wrapped-btc-test-metadata/main/logo.png"
+}
